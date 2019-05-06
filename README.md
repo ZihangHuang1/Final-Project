@@ -30,6 +30,7 @@ To start with, so when I put the data in, I just need to plug the number in.
 
 ## When your project is completed, you will then add the following sections:
 
+## Link to my online editor p5.js: https://editor.p5js.org/TedHuang/sketches/P9aUUOige
 ## Timeline
 
 What did you do in each of the past four weeks?
